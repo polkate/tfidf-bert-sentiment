@@ -14,7 +14,7 @@ Comparing BERT and tf-idf Embeddings for Sentiment Analysis
 
 ## Results
 
-The best model was Multilayer Perceptron (MLP).
+The best approach was using tf-idf embeddings. Multilayer Perceptron (MLP) results with tf-idf:
 
 ```
               precision    recall  f1-score   support
